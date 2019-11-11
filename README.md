@@ -5,10 +5,10 @@
 ![](work/gif/create.gif)
 
 ### update
-![](work/gif/Update.gif)
+![](work/gif/update.gif)
 
 ### Delete
-![](work/gif/Delete.gif)
+![](work/gif/delete.gif)
 
 ### Usage
 
