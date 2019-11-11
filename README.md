@@ -1,3 +1,6 @@
+# C# Admin Page
+(ADD DESCRIPTION OF APP)
+
 
 ## Demo
 
@@ -6,7 +9,7 @@ THis is s c# backend with CRA (react) front-end
 ### Create
 ![](work/gif/create.gif)
 
-### update
+### Update
 ![](work/gif/update.gif)
 
 ### Delete
@@ -22,4 +25,5 @@ THis is s c# backend with CRA (react) front-end
 ## Built With
 
 - REACT.js
--C#
+- C#
+- MySQL
