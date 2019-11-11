@@ -1,12 +1,14 @@
-# LifeSports Challlenge
-
-The challenges for new endpoints for lifesports app deployed to heroku
 
 ## Demo
 
 ### Create
-![](Create.gif)
+![](work/gif/create.gif)
 
+### update
+![](Update.gif)
+
+### Delete
+![](Delete.gif)
 
 ### Usage
 
@@ -18,8 +20,4 @@ The challenges for new endpoints for lifesports app deployed to heroku
 ## Built With
 
 - REACT.js
-- Mongo
-- Mongo-ATLAS
-- Heroku
-- Node
-- Express
+-C#
