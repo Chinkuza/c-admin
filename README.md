@@ -1,6 +1,8 @@
 
 ## Demo
 
+THis is s c# backend with CRA (react) front-end
+
 ### Create
 ![](work/gif/create.gif)
 
