@@ -5,7 +5,7 @@ The challenges for new endpoints for lifesports app deployed to heroku
 ## Demo
 
 ### Create
-![](create.gif)
+![](Create.gif)
 
 
 ### Usage
