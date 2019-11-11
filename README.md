@@ -1,12 +1,12 @@
 # C# Admin Page
-(ADD DESCRIPTION OF APP)
+(Pulls from my sql Database and allows users to perform the CRUD methods using a c# backend)
 
 
 ## Demo
 
 THis is s c# backend with CRA (react) front-end
 
-### Create
+### Create/Read
 ![](work/gif/create.gif)
 
 ### Update
